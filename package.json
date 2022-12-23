@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  },
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "description": "ecommerce api for testing",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnimeFlix007/ecommerceApi.git"
+  },
+  "author": "devjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnimeFlix007/ecommerceApi/issues"
+  },
+  "homepage": "https://github.com/AnimeFlix007/ecommerceApi#readme"
+}
